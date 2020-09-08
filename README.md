@@ -10,6 +10,8 @@ My nickname is pronounced /dʒɑn mɐˈɡon/.
 
 🔭 I'm currently not working and looking for a job. So if you have something to offer, let me know.
 
+📫 You can contact me via email: jonmagon@gmail.com
+
 <!--
 **JonMagon/JonMagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
