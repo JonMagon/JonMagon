@@ -1,6 +1,7 @@
 ### Hi 👋 Dmitry is here
 
-My nickname is pronounced /dʒɑn mɐˈɡon/.  
+My nickname is pronounced /dʒɑn mɐˈɡon/.
+
 💬 I speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German. Well, my English sometimes up and down.
 
 🎓 I'm an Informatics student at Kuban State Agrarian University. 
