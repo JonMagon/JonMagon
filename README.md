@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 Dmitry is here
+
+My nickname is pronounced /dʒɑn mɐˈɡon/.  
+💬 I speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German. Well, my English sometimes up and down.
+
+🎓 I'm an Informatics student at Kuban State Agrarian University. 
+
+❤️ I really like reverse engineering, C++, Linux and Admiral Bahroo's panda. 🐼
+
+🔭 I'm currently not working and looking for a job. So if you have something to offer, let me know.
 
 <!--
 **JonMagon/JonMagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
