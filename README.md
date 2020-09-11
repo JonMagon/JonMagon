@@ -2,7 +2,7 @@
 
 My nickname is pronounced /dʒɑn mɐˈɡon/.
 
-💬 I speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German. Well, my English sometimes up and down.
+💬 I speak 🇷🇺 Russian, 🇺🇸 English, and 🇩🇪 German. Well, my English sometimes up and down.
 
 🎓 I'm [an Informatics student](https://kubsau.ru/education/portfolio/students/20b48ee3-b072-4438-b9b0-fd468d075fb2/) at Kuban State Agrarian University. It's in Russia, not Cuba.
 
