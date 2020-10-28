@@ -10,6 +10,8 @@ My nickname is pronounced /dʒɑn mɐˈɡon/.
 
 🔭 I'm currently not working and looking for a job. So if you have something to offer, let me know.
 
+🔑 PGP Key Fingerprint: [D499 E67D DBCF 94EA F5B2 0ACC 30FB 0495 3E53 31F3](D499E67DDBCF94EAF5B20ACC30FB04953E5331F3.asc)
+
 <!--
 **JonMagon/JonMagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
